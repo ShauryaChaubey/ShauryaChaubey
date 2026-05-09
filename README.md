@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m working on Android Development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🔭 I’m working as Fullstack Developer at BNY Mellon
+- 🌱 I’m currently learning Machine learning and AI in depth
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/shauryachaubey/) | [Email](Mailto:shauryaccc98@gmail.com)
 - 🚀 Also dabbling around some open Source Projects 
 
